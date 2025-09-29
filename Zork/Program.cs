@@ -3,30 +3,6 @@ using System.Collections.Generic;
 
 namespace Zork
 {
-    enum Commands
-    {
-        QUIT,
-        LOOK,
-        NORTH,
-        SOUTH,
-        EAST,
-        WEST,
-        UNKNOWN
-    }
-
-    public static class Assert
-    {
-        [Conditional("DEBUG")]
-        public static void IsTrue(bool expression, string message = null)
-        {
-            if (expression == false)
-            {
-                throw new Exception(message);
-            }
-        }
-
-    }
-
     internal class Program
     {
         private static string CurrentRoom

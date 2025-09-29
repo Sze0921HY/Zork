@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sz982600\\source\\repos\\Zork\\Zork\\Zork.csproj",
+      "projectUniqueName": "C:\\Users\\sz982600\\Documents\\GitHub\\Zork\\Zork\\Zork.csproj",
       "projectName": "Zork",
-      "projectPath": "C:\\Users\\sz982600\\source\\repos\\Zork\\Zork\\Zork.csproj",
+      "projectPath": "C:\\Users\\sz982600\\Documents\\GitHub\\Zork\\Zork\\Zork.csproj",
       "packagesPath": "C:\\Users\\sz982600\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sz982600\\source\\repos\\Zork\\Zork\\obj\\",
+      "outputPath": "C:\\Users\\sz982600\\Documents\\GitHub\\Zork\\Zork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
