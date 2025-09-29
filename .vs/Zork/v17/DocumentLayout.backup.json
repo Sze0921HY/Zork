@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{DE6A0E2C-D826-4566-8474-F7979C3EB4F1}|Zork\\Zork.csproj|solutionrelative:zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DE6A0E2C-D826-4566-8474-F7979C3EB4F1}|Zork\\Zork.csproj|c:\\users\\sz982600\\documents\\github\\zork\\zork\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DE6A0E2C-D826-4566-8474-F7979C3EB4F1}|Zork\\Zork.csproj|solutionrelative:zork\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DE6A0E2C-D826-4566-8474-F7979C3EB4F1}|Zork\\Zork.csproj|c:\\users\\sz982600\\documents\\github\\zork\\zork\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DE6A0E2C-D826-4566-8474-F7979C3EB4F1}|Zork\\Zork.csproj|solutionrelative:zork\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6A0E2C-D826-4566-8474-F7979C3EB4F1}|Zork\\Zork.csproj|c:\\users\\sz982600\\documents\\github\\zork\\zork\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6A0E2C-D826-4566-8474-F7979C3EB4F1}|Zork\\Zork.csproj|solutionrelative:zork\\assert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DE6A0E2C-D826-4566-8474-F7979C3EB4F1}|Zork\\Zork.csproj|c:\\users\\sz982600\\documents\\github\\zork\\zork\\commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,13 +30,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Room.cs",
               "DocumentMoniker": "C:\\Users\\sz982600\\Documents\\GitHub\\Zork\\Zork\\Room.cs",
               "RelativeDocumentMoniker": "Zork\\Room.cs",
               "ToolTip": "C:\\Users\\sz982600\\Documents\\GitHub\\Zork\\Zork\\Room.cs",
               "RelativeToolTip": "Zork\\Room.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T19:00:41.141Z",
               "EditorCaption": ""
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Assert.cs",
               "DocumentMoniker": "C:\\Users\\sz982600\\Documents\\GitHub\\Zork\\Zork\\Assert.cs",
               "RelativeDocumentMoniker": "Zork\\Assert.cs",
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "Zork\\Program.cs",
               "ToolTip": "C:\\Users\\sz982600\\Documents\\GitHub\\Zork\\Zork\\Program.cs",
               "RelativeToolTip": "Zork\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAwwGQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-29T18:52:10.938Z",
               "EditorCaption": ""

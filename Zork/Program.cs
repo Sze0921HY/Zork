@@ -33,6 +33,7 @@ namespace Zork
 
                     case Commands.LOOK:
                         Console.WriteLine("This is an open field west of a white house, with a boarded front door.\nA rubber mat saying 'Welcome to Zork!' lies by the door.");
+                        Console.WriteLine(CurrentRoom.Description);
                         break;
 
                     case Commands.NORTH:
@@ -97,11 +98,25 @@ namespace Zork
 
         private static bool IsDirection(Commands command) => Directions.Contains(command);
 
-        private static readonly string[,] Rooms = {
-        {"Rocky Trail", "South of House", "Canyon View"},
-        {"Forest", "West of House", "Behind House"},
-        {"Dense Woods", "North of House", "Clearing"}
+        private static readonly Room[,] Rooms = {
+        {new Room("Rocky Trail"), new Room("South of House"), new Room("Canyon View")},
+        {new Room("Forest"), new Room("West of House"), new Room("Behind House")},
+        {new Room("Dense Woods"), new Room("North of House"), new Room("Clearing")}
         };
+
+        private static void InitializeRoomDescriptions()
+        {
+            Rooms[0, 0].Description = "You";
+            Rooms[0, 1].Description = "You";
+            Rooms[0, 2].Description = "You";
+            Rooms[1, 0].Description = "You";
+            Rooms[1, 1].Description = "You";
+            Rooms[1, 2].Description = "You";
+            Rooms[2, 0].Description = "You";
+            Rooms[2, 1].Description = "You";
+            Rooms[2, 2].Description = "You";
+
+        }
 
         private static readonly List<Commands> Directions = new List<Commands> { Commands.NORTH, Commands.SOUTH, Commands.EAST, Commands.WEST };
 

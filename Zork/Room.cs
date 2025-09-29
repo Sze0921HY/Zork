@@ -14,7 +14,8 @@ namespace Zork
 
         public Room(string name, string description = "")
         {
-            Name = name; Description = description;
+            Name = name; 
+            Description = description;
         }
     }
 }
